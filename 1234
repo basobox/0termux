@@ -1,0 +1,38 @@
+Fortify Solutions
+https://www.youtube.com/watch?v=Cehj0-Tu2n0
+
+*Content*
+     "Hour : Minute : Second "
+-- (0:00:00 - 0:14:36)installation of Termux & Termux-API from Google Store/play.
+-- (0:14:37 - 0:15:45)How to check TERMUX is properly installed or not.
+-- (0:15:46 - 0:17:35)Test-to-Speak using Termux API
+-- (0:17:36 - 0:23:00)How to Change Background color,Font Size & Style
+-- (0:23:01 - 0:29:27) Learn figlet features - font/text types, pause entry, centre, left, right side of screen
+-- (0:29:28 - 0:33:19)How to browse google, Facebook, Instagram, snapchat and other web using termux - pkg w3m
+-- (0:33:20 - 0:35:27)To find the GPS location of device by using TERMUX, also get google co-ordinate
+-- (0:35:28 - 0:39:39) MAN TOOL - Tool used to read manual page of varoius tools, search on manual pages
+-- (0:39:40 - 0:42:24)How Linux commands are used in TERMUX
+-- (0:42:25 - 0:45:57)What are the Different ways to open website in TERMUX
+-- (0:45:58 - 0:47:27)CMATRIX EFFECT, How to create running Matrix
+-- (0:47:28 - 0:53:31)VI to create, edit file/ VIM in Termux
+-- (0:53:32 - 1:04:07)How to check device or systems information through TERMUX - phone info, camera, speakers, fingerscan
+-- (1:04:08 - 1:09:06)TERMUX - package TTY-CLOCK and TTY-SOLITAIRE (Package usage & Application)
+-- (1:09:08 - 1:13:53)TERMUX - package COWSAY & TOILET
+-- (1:13:54 - 1:16:44)TERMUX - PLAY MUSIC (package:TREE & PLAY-AUDIO)
+-- (1:16:45 - 1:24:42)TERMUX - Package ASCIINEMA (for screen recording with limited idle time during recording)
+-- (1:24:43 - 1:27:48)TERMUX -API Making phone call using TERMUX
+-- (1:27:49 - 1:29:00)Create Figure Letters through TERMUX
+-- (1:29:01 - 1:42:06)TERMUX - IPGEOLOCATOR
+-- (1:42:07 - 1:46:34)Termux used to get nearby available WiFi information
+-- (1:46:35 - 1:48:43)Termux- Installation and running of apache2 http server
+-- (1:48:44 - 1:56:12)How to create/ generate password list through termux
+-- (1:56:13 - 2:01:15)TERMUX - Check URL to detect EVIL URL that uses IDN homography
+-- (2:01:16 - 2:07:52)TERMUX - Red hawk - Information gathering tool and vulnerabilities scanning tool
+-- (2:07:53 - 2:16:52)TERMUX - Package LAZYMUX for Info gathering
+-- (2:16:53 - 2:23:43)TERMUX SOCIAL ENGINEERING
+-- (2:23:44 - 2:27:15)Termux-Information gathering - WHOIS : Provide the details related to Commands/Header
+-- (2:27:16 - 2:31:40)TERMUX-INFORMATION GATHERING - NSLOOKUP (domain information)
+-- (2:37:10 - 2:43:36)TERMUX - DARKFLY (inbuilt 430 tools to directly install without github)
+-- (2:43:37 - 2:52:08)TERMUX - NMAP
+-- (2:52:09 - 2:58:35)TERMUX - WEBSITE INFORMATION GATHERING- OWSCAN - web site scanning tool
+-- (2:58:36 - 3:07:28)TERMUX - Tools Web site information gethering 
